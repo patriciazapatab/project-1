@@ -78,11 +78,11 @@ This is common for both worldwide and Florida. But we can notice some difference
 
 Activities that receive more attacks worldwide:
 
-![activities_worldwide](https://github.com/patriciazapatab/project-1/blob/main/images/activities_worldwide.png?raw=true)
+![activities_worldwide](https://github.com/patriciazapatab/project-1/blob/main/images/activities_florida.png?raw=true)
 
 Activities that receive more attacks in Florida:
 
-![activities_Florida](https://github.com/patriciazapatab/project-1/blob/main/images/activities_florida.png?raw=true)
+![activities_Florida](https://github.com/patriciazapatab/project-1/blob/main/images/activities_worldwide.png?raw=true)
 
 In terms of the most common injuries produced by shark bites on surfers, the lower limbs are the ones that suffer the most. Injuries involving the foot, the ankle or the heel account for slightly more than the 70% of surfers injuries.
 
