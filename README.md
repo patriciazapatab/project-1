@@ -93,3 +93,13 @@ In terms of the most common injuries produced by shark bites on surfers, the low
 - If you are a man between 10 and 20 years old avoid surfing on weekends in July in Florida, you have a higher chance than anyone else to get attacked by a shark.
 
 - If you choose to ignore the first advice, protect your feet, or you run the risk of losing them.
+
+
+
+
+# Links of interest
+
+- Presentation:
+[Presentation_link]
+
+[Presentation_link]: ttps://www.canva.com/design/DAFyGFidsLI/dvWLHF6VjDTSaRnGDd_bpg/edit?utm_content=DAFyGFidsLI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutto
