@@ -41,7 +41,7 @@ We also find more outliers on the male group than in the female group. Since we 
 
 ![age_F](https://github.com/patriciazapatab/project-1/blob/main/images/age_F.png?raw=true)
 
-# Where and when are there more shark attacks? Has this changed in the last 23 years?
+# Where and when are there more shark attacks? Has this changed from year 2000?
 
 Florida in the USA is by far the area with more shark attacks. Australia and South Africa follow 2nd and 3rd position. However, adding their attacks together they are still under USA.
 
