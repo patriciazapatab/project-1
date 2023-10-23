@@ -41,7 +41,7 @@ We also find more outliers on the male group than in the female group. Since we 
 
 ![age_F](https://github.com/patriciazapatab/project-1/blob/main/images/age_F.png?raw=true)
 
-# Where and when are there more shark attacks? Has this changed from year 2000?
+# Where are there more shark attacks? 
 
 Florida in the USA is by far the area with more shark attacks. Australia and South Africa follow 2nd and 3rd position. However, adding their attacks together they are still under USA.
 
@@ -54,7 +54,7 @@ In the case of Florida the attacks are almost equal to the ones in Hawaii, Calif
 ![USA_plot](https://github.com/patriciazapatab/project-1/blob/main/images/usa_areas.png?raw=true)
 
 
-# What months prefer the sharks to attack?
+# What months prefer the sharks to attack? Has this changed from year 2000?
 
 After analyzing the data it is clear that sharks conciously wait for humans to be relaxed in late summer to attack. July, August and September are the months with more attacks. 
 
