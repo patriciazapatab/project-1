@@ -99,7 +99,4 @@ In terms of the most common injuries produced by shark bites on surfers, the low
 
 # Links of interest
 
-- Presentation:
-[Presentation_link]
-
-[Presentation_link]: ttps://www.canva.com/design/DAFyGFidsLI/dvWLHF6VjDTSaRnGDd_bpg/edit?utm_content=DAFyGFidsLI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutto
+- Presentation: https://www.canva.com/design/DAFyGFidsLI/dvWLHF6VjDTSaRnGDd_bpg/edit?utm_content=DAFyGFidsLI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutto
